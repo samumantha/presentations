@@ -17,6 +17,8 @@ The CodeRefinery project
 * Community, hanging out on [Zulip](https://coderefinery.zulipchat.com)
 * Great collaboration  with other Nordic NCCs, especially Aalto SciComp
 
+
+
 Who is it for?
 * Anyone who codes anything
 * Workshop participants from all fields of science and career stages
@@ -39,23 +41,19 @@ Who is it for?
 * Courses: develop in collaboration 
 * Future of CR is open, what happens after project ends
 
----
-
 <img src="img/CSC_CR.png" style="height: 550px;"/>
 
 ---
 
-## Nordic-RSE
+## Nordic-RSE - https://nordic-rse.org/
 
-Organization of Research Software Engineers in Nordics
+* Organization of *Research Software Engineers* in Nordics
 
-Collaboration within Nordics and with other RSE networks around the world
+* Collaboration within Nordics and with other RSE networks around the world
 
-Seminars / Unconference / Community
+-> Seminars / Unconference / Community
 
-https://nordic-rse.org/
+* new RocketChat channel: *#ResearchSoftwareEngineering*
+-> join for sharing experiences, events, courses, conferences etc
 
-new RocketChat channel: #ResearchSoftwareEngineering
-- join for sharing experiences, events, courses, conferences etc
-
-Finnish RSE meetup 30.5 in CSC office, Diskurssi, sign up: https://link.webropol.com/ep/fin-rse-meetup-23
+*Finnish RSE meetup 30.5 in CSC office*, Diskurssi, sign up: https://link.webropol.com/ep/fin-rse-meetup-23
