@@ -36,11 +36,6 @@ Who is it for?
 
 ## CR and CSC people
 
-* Workshops: join as a teacher easily 
-* Workshops: level your skills
-* Courses: develop in collaboration 
-* Future of CR is open, what happens after project ends
-
 <img src="img/CSC_CR.png" style="height: 550px;"/>
 
 ---
