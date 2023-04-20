@@ -19,7 +19,7 @@ Matias Jääskeläinen, Samantha Wittke
 
 
 
-## Who is it for?
+### Who is it for?
 * Anyone who codes anything
 * Workshop participants from all fields of science and career stages
 * Strong RSE community connection
@@ -30,11 +30,11 @@ Matias Jääskeläinen, Samantha Wittke
 
 > Tools and best practices for developing reproducible and reusable research software.
 
-<img src="img/reproducible-research.jpg" style="width: 75%;"/>
+<img src="img/reproducible-research.jpg" style="width: 80%;"/>
 
 ---
 
-<img src="img/CSC_CR.png" style="height: 550px;"/>
+<img src="img/CSC_CR.png" style="width: 100%;"/>
 
 ---
 
