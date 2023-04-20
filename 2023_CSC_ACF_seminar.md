@@ -12,14 +12,14 @@ Matias Jääskeläinen, Samantha Wittke
 
 ---
 
-The CodeRefinery project
+## The CodeRefinery project
 * Workshops, teaching, gitlab instance
 * Community, hanging out on [Zulip](https://coderefinery.zulipchat.com)
 * Great collaboration  with other Nordic NCCs, especially Aalto SciComp
 
 
 
-Who is it for?
+## Who is it for?
 * Anyone who codes anything
 * Workshop participants from all fields of science and career stages
 * Strong RSE community connection
@@ -33,8 +33,6 @@ Who is it for?
 <img src="img/reproducible-research.jpg" style="width: 75%;"/>
 
 ---
-
-## CR and CSC people
 
 <img src="img/CSC_CR.png" style="height: 550px;"/>
 
